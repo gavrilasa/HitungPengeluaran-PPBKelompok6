@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/layout_list_item_data.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/layout/list_item_data.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/layout_fragment_pengeluaran.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/layout/fragment_pengeluaran.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/layout_fragment_pemasukan.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/layout/fragment_pemasukan.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable_ic_pengeluaran.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/drawable/ic_pengeluaran.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable_ic_pemasukan.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/drawable/ic_pemasukan.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable_ic_delete.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable_ic_back.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/layout_activity_tambah_data.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/layout/activity_tambah_data.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable_bg_button_primary.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/drawable_ic_add.xml.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.kelompok6.hitungpengeluaran.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.kelompok6.hitungpengeluaran.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

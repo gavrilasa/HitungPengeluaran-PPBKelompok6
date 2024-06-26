@@ -1,0 +1,12 @@
+com.kelompok6.hitungpengeluaran.test.app-sqlite-framework-2.2.0-0 /Users/gapi/.gradle/caches/transforms-3/083e87c4370c2165531d548ec0785f76/transformed/sqlite-framework-2.2.0/res
+com.kelompok6.hitungpengeluaran.test.app-room-testing-2.4.3-1 /Users/gapi/.gradle/caches/transforms-3/13a8f411398db92c0ee6da1634415c84/transformed/room-testing-2.4.3/res
+com.kelompok6.hitungpengeluaran.test.app-room-runtime-2.4.3-2 /Users/gapi/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/res
+com.kelompok6.hitungpengeluaran.test.app-jetified-annotation-experimental-1.1.0-3 /Users/gapi/.gradle/caches/transforms-3/9d769e6f8c1cf14afd24d8935e171f47/transformed/jetified-annotation-experimental-1.1.0/res
+com.kelompok6.hitungpengeluaran.test.app-sqlite-2.2.0-4 /Users/gapi/.gradle/caches/transforms-3/a46dba3980d4c5327b2b334c824a9019/transformed/sqlite-2.2.0/res
+com.kelompok6.hitungpengeluaran.test.app-androidTest-5 /Users/gapi/Code/HitungPengeluaran/HitungPengeluaran/app/build/generated/res/resValues/androidTest/debug
+com.kelompok6.hitungpengeluaran.test.app-androidTest-6 /Users/gapi/Code/HitungPengeluaran/HitungPengeluaran/app/build/generated/res/rs/androidTest/debug
+com.kelompok6.hitungpengeluaran.test.app-mergeDebugAndroidTestResources-7 /Users/gapi/Code/HitungPengeluaran/HitungPengeluaran/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.kelompok6.hitungpengeluaran.test.app-mergeDebugAndroidTestResources-8 /Users/gapi/Code/HitungPengeluaran/HitungPengeluaran/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.kelompok6.hitungpengeluaran.test.app-merged_res-9 /Users/gapi/Code/HitungPengeluaran/HitungPengeluaran/app/build/intermediates/merged_res/debugAndroidTest
+com.kelompok6.hitungpengeluaran.test.app-androidTest-10 /Users/gapi/Code/HitungPengeluaran/HitungPengeluaran/app/src/androidTest/res
+com.kelompok6.hitungpengeluaran.test.app-androidTestDebug-11 /Users/gapi/Code/HitungPengeluaran/HitungPengeluaran/app/src/androidTestDebug/res
